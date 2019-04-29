@@ -175,5 +175,7 @@ public class MainActivity extends AppCompatActivity {
     
     
     //This is a comment to last Git pull process from android studio.
+    // This is a second comment.
+    
     
 }
