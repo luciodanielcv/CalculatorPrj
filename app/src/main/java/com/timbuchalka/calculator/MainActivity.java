@@ -172,4 +172,8 @@ public class MainActivity extends AppCompatActivity {
     public String returnName(){
         return "ThisIsAName";
     }
+    
+    
+    //This is a comment to last Git pull process from android studio.
+    
 }
